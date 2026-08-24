@@ -1,8 +1,0 @@
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalApp.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalAppTests.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalApp_autogen_timestamp_deps.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalApp_autogen.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalAppTests_autogen_timestamp_deps.dir
-C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/CMakeFiles/JournalAppTests_autogen.dir

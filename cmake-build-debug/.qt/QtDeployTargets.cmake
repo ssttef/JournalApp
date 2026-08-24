@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_JournalApp_FILE C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/JournalApp.exe)
-set(__QT_DEPLOY_TARGET_JournalApp_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_JournalApp_RUNTIME_DLLS C:/Qt/6.9.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Core.dll)
-set(__QT_DEPLOY_TARGET_JournalAppTests_FILE C:/Users/steffgrati/CLionProjects/JournalApp/cmake-build-debug/JournalAppTests.exe)
-set(__QT_DEPLOY_TARGET_JournalAppTests_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_JournalAppTests_RUNTIME_DLLS C:/Qt/6.9.0/mingw_64/bin/Qt6Test.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Core.dll)
