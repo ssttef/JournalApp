@@ -1,0 +1,77 @@
+[
+    {
+        "content": "meow",
+        "id": "{47a3a35b-e056-491a-9a5a-fff7e506ad37}",
+        "tags": [
+            "meow",
+            "good day"
+        ],
+        "timestamp": "2025-06-05T02:10:12",
+        "title": "meow"
+    },
+    {
+        "content": "diary app yaay!!",
+        "id": "{382dc6fc-d562-4333-a09c-45656c24cf6d}",
+        "tags": [
+            "app"
+        ],
+        "timestamp": "2025-06-05T02:54:38",
+        "title": ":P"
+    },
+    {
+        "content": "today was a good day",
+        "id": "{283c1ad7-08eb-4d13-ab88-9c4a09b7908d}",
+        "tags": [
+            "good day"
+        ],
+        "timestamp": "2025-06-05T18:26:46",
+        "title": "good day"
+    },
+    {
+        "content": "today was an awesome day. i ate ice cream",
+        "id": "{de2450d6-b69d-4bd0-9d52-aed5459d4aa5}",
+        "tags": [
+            "great day",
+            "ice cream"
+        ],
+        "timestamp": "2025-06-05T18:27:00",
+        "title": "awesome"
+    },
+    {
+        "content": "today is national children's day",
+        "id": "{0ec7aaf1-6e8b-4644-a84a-c54d7d13d6c5}",
+        "tags": [
+            "june",
+            "national day"
+        ],
+        "timestamp": "2025-06-01T18:37:40",
+        "title": "children's day"
+    },
+    {
+        "content": "no exam today",
+        "id": "{95ad8382-9842-45f0-bd37-786cafcb3b20}",
+        "tags": [
+            "may",
+            "exam"
+        ],
+        "timestamp": "2025-05-15T18:38:10",
+        "title": "exam"
+    },
+    {
+        "content": "content",
+        "id": "{6b302116-a0a5-42de-858e-99992f7523ce}",
+        "tags": [
+            "tag"
+        ],
+        "timestamp": "2025-06-05T18:54:23",
+        "title": "diary"
+    },
+    {
+        "content": "",
+        "id": "{1ef32232-3665-49c0-b6c5-99d361b0530d}",
+        "tags": [
+        ],
+        "timestamp": "2025-12-04T18:22:52",
+        "title": ""
+    }
+]
